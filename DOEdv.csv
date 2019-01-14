@@ -1,0 +1,5 @@
+designvariables,maxFuelConvKw,maxMotorKw,maxEssKw,maxEssKwh
+low,40,15,5,1
+high,400,250,90,2
+levels,5,5,5,5
+results,mpgge,avg_accel_mphps
